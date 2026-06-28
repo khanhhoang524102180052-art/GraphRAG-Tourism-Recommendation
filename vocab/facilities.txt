@@ -1,0 +1,496 @@
+Air Conditioning
+aircond
+Airport Transfer
+BalconyTerrace
+Bar
+decor
+toilet
+washroom
+bathtub
+restroom
+sink
+wardrobe
+shower
+bedding
+bidet
+mattress
+beds
+pillows
+beddin
+mattresses
+pillow
+blanket
+bathroom
+duvet
+exhaust
+faucet
+cooling
+internet
+showers
+drainage
+ventilation
+counter
+concierge
+bell
+lobby
+guard
+closet
+dinner
+Bathtub
+Bbq Facilities
+Beachfront
+electric motorbike
+Bicycle Parking
+Bicycles
+Billiards
+Bottle Of Water
+Breakfast
+buffet breakfast
+Breakfast Takeaway Service
+Business Center
+BuzzerWireless Intercom
+Car Park
+Cashless Payment Service
+Casino
+Cctv In Common Areas
+Cctv Outside Property
+CheckIn 24Hour
+CheckInOut Express
+CheckInOut Private
+Chinese Cantonese
+Chinese Mandarin
+Cleaned By Professional Cleaning Company
+Cleaning Products
+Coffee Shop
+Complimentary Movies
+Concierge
+Contactless CheckInOut
+Convenience Store
+Currency Exchange
+Daily Disinfection In All Rooms
+Daily Disinfection In Common Areas
+Daily Housekeeping
+Dart Board
+DogFriendly
+Doorman
+dishes
+Dry Cleaning
+Elevator
+Exterior Corridor
+Face Masks Provided For Guests
+Family Room
+FamilyChild Friendly
+Fan
+Fire Extinguisher
+Fireplace
+First Aid Kit
+Fitness Center
+Food Delivery
+Foot Bath
+Free Parking
+Free WiFi
+French
+Front Desk 24Hour
+Game Room
+Garden
+Golf Course
+Golf Course Within 3 Km
+Grooming Service
+Hand Sanitizer
+Happy Hour
+Heating
+Hiking
+Hinoki Bath
+Hot Tub
+Internet Access
+Internet Services
+Invoice Provided
+Ironing
+Karaoke
+Keyless Access
+Kids Club
+Kitchen
+Kitchen Basics Cookware Oils Condiments
+Kitchenette
+Lake Access
+Laundromat Nearby
+Laundry
+Light Therapy
+Locker
+Luggage Storage
+Massage
+breakfast buffet
+Massage Bed
+Massage Chair
+Meeting Facilities
+Microwave
+Mini Golf Course
+Nightclub
+Night market
+NonSmoking Rooms
+OnSite Entertainment
+Paid Parking Available
+PetFriendly Charges Apply
+Pets Allowed
+Pool Kids
+Pool With View
+Poolside Bar
+Private Beach
+Pub Crawl
+Refrigerator
+Rental Car
+Restaurant
+Rooftop Area
+Room Decorations
+Room Service
+Room Service 24Hour
+Safety Deposit Boxes
+SafetySecurity Feature
+Salon
+Sauna
+Security 24Hour
+Shared Kitchen
+Shared LoungeTv Area
+Shuttle Service
+Smoke Detector
+SmokeFree Property
+Smoking Area
+Snack Bar
+Soundproof Rooms
+Spa
+Spanish
+Staff
+staffs
+The staff
+receptionist
+reception
+cleaner
+bellman
+employee
+compensation
+host
+hosts
+landlord
+receptionists
+owner
+owners
+boss
+supervisor
+frontdesk
+doorman
+manager
+security
+room service
+bartender
+chef
+waitress
+Staff Trained In Safety Protocol
+Steamroom
+Stove
+Swimming Pool
+swimming pools
+cinema
+Taxi Service
+Theme Park
+Themed Rooms
+Ticket Services
+Toiletries
+Tours
+Unionpay
+Valet Parking
+Parking
+Video Streaming Services
+Water Park
+Water Sports
+Waterfront
+Wheelchair Accessible
+Yoga Room
+breakfast
+view
+room equipment
+desserts
+cleaning service
+pool
+pools
+lazy river
+cleaned room
+clean room
+housekeeping
+near beach
+at beach
+TV
+pickup service
+transportation
+seaview
+terrace
+scenery
+breakfat
+spa
+for service
+infinity Pool
+Afternoon Tea
+Netflix
+elevator
+balcony
+laundry
+scape
+connecting rooms
+Airport Pick-Up
+privacy
+snacks
+fridge
+attractions
+Provided Shampoo
+Shower Gel
+Handwash
+Bath Towels
+bathing Towels
+Napkin Towel
+Floormat Small Towel
+Toothpaste
+Toothbrush
+city views
+afternoon tea
+late check out
+food
+beverage
+private balconies
+car park free charge
+outdoor pool
+private beach
+indoor pool
+air conditioning
+modern air conditioning complimentary
+private balconies terraces
+dining
+ocean views
+internet access
+easy access attractions
+ocean view
+room
+city sea views
+drinks
+private beach
+hot tub
+comfortable air 
+relaxation adventure
+pool breathtaking views
+breakfast room
+local cuisine
+wireless internet
+city street views
+beach ocean views
+direct beach access
+steam room
+access popular attractions
+garden ocean views
+garden views private balconies
+private balconies ocean city views
+pool stunning views
+cocktails
+breathtaking views
+exclusive private beach
+stunning coastal views
+outdoor views
+comfort convenience
+stunning rooftop terrace
+local attractions
+rooftop pool
+rooftop swimming pool
+ocean views
+modern comfort
+free internet
+tranquil escape
+refrigerator
+hour room service
+private balconies
+range activities
+ocean mountain views
+views city river
+dining option
+stunning sea views
+Bathroom Amenities
+street views
+rooftop terrace
+coffee
+delicious meals
+meals
+meal
+ocean garden views
+pool views
+private check in
+ideal exploration
+local flavors
+local tours
+easy access iconic landmarks
+city river views
+peaceful retreat
+exclusive hour check in
+pool breathtaking views
+panoramic views
+food delivery
+lounge area
+escape
+serene pool
+serene garden
+diverse breakfast options
+serene beaches
+mountain views
+spacious rooms
+diverse breakfast menu
+menu
+bfast
+breakfast takeaway service
+concierge services
+river views
+cultural experiences
+fine dining
+personalized concierge services
+sea city views
+fun activities
+rooftop bar
+rooftop
+roof top bar
+steam bath
+amenities
+coffee shop
+air rooms free
+massage
+private villas
+local culture shopping
+rooftop pool sea views
+free air conditioning
+massage treatments
+city mountain views
+exclusive beach access
+breakfast rooms
+dining options
+private check out
+sunset views
+refreshing drink
+tours local culture
+nearairport
+checkin Time
+checkout Time
+pets Allowed
+pet Allowed
+smoking Allowed
+opening Hours
+department
+Credential
+Offer Catalog
+Shipping Service
+leiCode
+tour BookingPage
+amenity Feature
+amenity
+payment Accepted
+entertainer
+soundproofing
+sanitaryware
+24-Hour Front Desk
+air conditioner
+aircon
+airport drop off
+airport pickup
+airport shuttle
+at
+shuttle
+shuttle bus
+shuttle service
+transfer service
+breakfast included
+continental breakfast
+free breakfast
+morning breakfast
+morning meal
+patio
+veranda
+en suite bathroom
+ensuite bathroom
+free wi fi
+free wifi
+high speed internet
+wi fi
+wifi
+beach
+beach access
+oceanfront
+sea view
+seafront
+seaside
+em
+car park
+car parking
+free parking
+garage
+parking
+parking lot
+valet parking
+bottle water
+carpark
+coffeeshop
+movies
+drycleaning
+laundromat
+laundry service
+lift
+family accommodation
+family suite
+exercise room
+fitness
+fitness centre
+fitness room
+gym
+workout room
+24 hour reception
+check in desk
+front desk
+reception desk
+hottub
+common kitchen
+kitchenette
+public kitchen
+shared kitchen
+kitchen
+dry cleaning
+sauna
+spa center
+spa service
+wellness
+breakfastbuffet
+nightmarket
+paid parking
+infinity pool
+kids pool
+private pool
+swimming pool
+city view
+garden view
+mountain view
+pool view
+beachfront
+mini bar fridge
+mini fridge
+caf
+cafe
+eatery
+in room dining
+safe
+safety box
+security box
+airport transfer
+staff
+swimmingpool
+waterpark
+watersports
+cleanroom
+service
+views
+showergel
+airconditioning
+restaurant
+oceanview
+steamroom
+private check
+steambath
